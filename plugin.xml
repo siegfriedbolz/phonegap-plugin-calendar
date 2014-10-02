@@ -2,13 +2,13 @@
 <plugin
     xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="net.inovare.phonegap.plugins.calendar"
+    id="io.github.siegfriedbolz.cordova.plugins.calendar"
     version="4.2.5">
 
-   <name>Calendar</name>
+   <name>Calendar for iOS8 and Android 4 - Bolz Edition</name>
 
    <description>
-     This plugin allows allows you to manipulate the native calendar.
+     This plugin allows allows you to manipulate the native calendar. For iOS 8 and Android 4 - Bolz Edition (www.app-consultant.de)
    </description>
 
    <license>MIT</license>
